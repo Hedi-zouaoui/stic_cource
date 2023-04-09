@@ -1,0 +1,6 @@
+
+devops project bootcamp : 
+D:\[FreeCourseSite.com] Udemy - DevOps Project CI CD with Jenkins Ansible Docker Kubernetes
+D:\[FreeCourseSite.com] Udemy - Learn DevOps CICD with Jenkins using Pipelines and Docker
+D:\[FreeCourseSite.com] Udemy - DevSecOps using GitHub Actions Secure CICD with GitHub\
+

@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+ box-sizing: border-box;
+
+}
+
+/* start NAV BAR */
+
+
+
+button {
+ font-family: "Heebo";
+ font-weight: 500;
+ font-size: 16px;
+ padding: 15px 29px;
+ background-color: rgb(251, 184, 60);
+ border-radius: 50px;
+ border: none;
+ padding: 10px 25px;
+ transition: all 0.3s ease 0s;
+}
+
+button:hover {
+ background-color: orange;
+ padding: 15px 30px;
+
+
+}
+
+
+header {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;  
+ padding: 15px 10%; 
+
+} 
+
+.logo {
+ font-family: "Kdam Thmor Pro";
+ font-weight: 500;
+ font-size: 40px;
+ color: rgb(251, 184, 60); 
+ text-shadow: 2px 2px 4px rgb(251, 184, 60); 
+
+} 
+
+.main  {
+ background-color: rgb(224, 221, 221) ;
+ border-radius: 50px;
+ width: 100%;
+ height: auto;
+  overflow: auto; 
+}
+
+.first {
+ font-family: "Heebo"; 
+color:  orange ;
+text-align: center ;
+ font-size: 50px; 
+ padding: 50px ;
+ 
+ text-decoration: underline ;
+}
+.text{
+    font-family: "Heebo";
+        color: black ;
+        text-align: center;
+        font-size: 50px; 
+        margin: 25px ;
+
+}
+
+.specialite {
+ text-align: center;
+}
+
+.button1spe , .button2spe  , .button3spe  {
+
+ font-family: "Heebo";
+  position: relative;
+  left: 200px;
+  background-color : orange ;
+ 
+  border: none;
+  color: black; 
+  padding: 20px 50px; 
+  border-radius: 50px;
+  text-align: center;
+  align-items: center;
+  border: none;
+  text-decoration: none; 
+  font-size: 23px; 
+}
+.button1spe {
+    left: 300px ;
+}
+.button2spe {
+
+ left: 550px;
+}
+
+.button3spe {
+left: 800px;} 
+
+
+footer {
+    text-align: center ;
+    font-family: "Heebo";
+    font-size: 15px ;
+    padding: 10px ;
+}
+
+@media (max-width:1423px) {
+    
+}

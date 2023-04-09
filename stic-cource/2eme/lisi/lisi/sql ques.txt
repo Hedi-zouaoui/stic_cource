@@ -1,0 +1,20 @@
+select email , district
+from address , customer 
+where 
+address.district='California' 
+and 
+address.address_id=customer.address_id 
+
+
+
+
+//////*///////
+
+  select email , district from address 
+inner join customer 
+ON 
+address.address_id = customer.address_id 
+where 
+district = 'California' /////
+/////////////////
+All web services are APIs, but not all APIs are web services 

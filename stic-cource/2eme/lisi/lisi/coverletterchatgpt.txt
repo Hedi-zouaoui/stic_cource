@@ -1,0 +1,56 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Junior Tech Internship role available at your esteemed organization. As a recent graduate in Computer Science, I have gained a solid foundation in programming and software development, and I am excited to apply my skills in a professional environment.
+
+Throughout my academic career, I have worked on various projects and coursework that have exposed me to multiple programming languages and software development methodologies. Additionally, I have been involved in various extracurricular activities that have sharpened my analytical and problem-solving skills, making me well equipped to take on the challenges of the Junior Tech Internship role.
+
+As a highly motivated individual, I am eager to learn and contribute to your team. I have a passion for technology and a strong desire to continue developing my technical skills in a practical setting. Your organization's commitment to innovation and advancement aligns with my career aspirations, and I believe that this internship opportunity will allow me to gain valuable experience and insights.
+
+Thank you for considering my application. I look forward to the opportunity to further discuss my qualifications and how I can contribute to your organization.
+
+Sincerely,
+
+[Your Name] 
+ 
+
+
+**************************************************************************
+
+Dear [Hiring Manager],
+
+I am excited to apply for the Junior Tech Internship position at [Company Name]. As a recent graduate in Computer Science with a strong interest in software development, I believe that this internship will provide me with the perfect opportunity to grow my skills and gain real-world experience in the industry.
+
+Throughout my academic career, I have developed a deep understanding of programming languages such as Java, C++, and Python, and have worked on several projects that demonstrate my technical abilities. These projects include developing a web-based application using HTML, CSS, and JavaScript, as well as building an Android application that integrates machine learning algorithms. I am also well-versed in software development methodologies such as Agile and Scrum, and have experience working in collaborative environments with developers, designers, and project managers.
+
+In addition to my technical skills, I possess excellent problem-solving abilities and attention to detail, which are essential for success in the tech industry. I am a quick learner and am always eager to take on new challenges and learn new skills. Moreover, I have excellent communication skills and can work effectively both independently and as part of a team.
+
+I am impressed with [Company Name]'s commitment to innovation and the use of cutting-edge technology in developing software solutions for clients. I believe that this internship will enable me to contribute to the company's success while also learning from experienced professionals in the industry.
+
+Thank you for considering my application. I look forward to discussing my qualifications in further detail and the opportunity to contribute to your team.
+
+Sincerely,
+
+[Your Name]
+****************************************************************************
+Dear [Hiring Manager],
+
+I am writing to express my interest in the computer science junior internship at [Company]. As a highly motivated computer science student, I am eager to apply my skills and gain practical experience in the industry.
+
+Throughout my coursework, I have developed a strong foundation in programming principles and gained experience in developing web and mobile applications. I am proficient in several programming languages, including Java, Python, and C++, and have experience using modern web technologies such as React and Node.js. I have also completed coursework in data structures, algorithms, computer networks, and software engineering.
+
+In addition to my academic achievements, I have completed several personal projects that showcase my skills and passion for software development. One such project is a mobile app that I developed using Android Studio, which involved designing the user interface, implementing features, and testing the application. I have also developed a desktop application using Java Swing, which involved implementing a graphical user interface and integrating database functionality.
+
+I am excited about the opportunity to apply my skills and learn from experienced professionals at [Company]. I am confident that the junior internship will provide me with valuable experience and help me further develop my skills. I am eager to contribute to the success of the team and learn from the challenges of the industry.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications in more detail.
+
+Sincerely,
+[Your Name]
+
+
+************************************************************************
+
+
+CV 
+:
+projet class : Collaborated with a team of 4 developers, responsible for front-end development and UI design 

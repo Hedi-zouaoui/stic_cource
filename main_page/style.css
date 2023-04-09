@@ -1,0 +1,421 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+box-sizing: border-box ;
+  
+}
+
+
+/* start NAV BAR */ 
+
+
+
+ button  {
+ font-family: "Heebo" ;
+ font-weight: 500 ;
+ font-size: 16px ;
+padding: 9px 25px;
+background-color: rgb(251, 184, 60);
+border-radius: 50px;
+border: none;
+padding: 10px 25px;
+transition: all 0.3s ease 0s; }
+button:hover {
+   background-color: orange;
+padding: 15px 30px;
+  
+ 
+} 
+
+
+ header {
+ display: flex;
+justify-content: space-between ;
+ align-items: center ;
+ padding: 15px 10% ;}
+
+
+.logo {
+   font-family: "Kdam Thmor Pro";
+font-weight: 500;
+font-size: 40px; 
+color: rgb(251, 184, 60); 
+text-shadow: 2px 2px 4px rgb(251, 184, 60);
+  
+   }
+.niveau{
+font-family: "Heebo";
+font-weight: 500;
+font-size: 26px;
+color: black;
+}
+/* end NAV BAR */ 
+
+
+
+
+/* start MAIN */ 
+
+
+/* presentation */ 
+.main {
+background-color: rgb(224, 221, 221) ;
+border-radius: 50px; 
+width: 100%;
+height: auto;
+overflow: auto ;
+
+  
+
+}
+
+
+
+.welcome-text{
+color: rgb(251, 184, 60) ;
+text-align: center;
+line-height: 1.4;
+
+padding: 28px  ; 
+}
+.text-logo{
+font-family: "Kdam Thmor Pro";
+font-weight: 500;
+font-size: 45px;
+color: rgb(251, 184, 60);
+
+
+}
+.welcome {
+font-family: Pacifico ;
+font-size: 70px ;
+  
+}
+p{ 
+font-family: Bebas Neue ;
+font-size: 40px;
+font-weight: 400;
+padding: 10px ;
+text-align: center;
+
+
+}
+
+img {
+float: right;
+width: 31%;
+height: auto;
+} 
+
+
+
+.simple,
+.plusefficase {
+color: orange;
+text-decoration: underline;
+text-decoration-color: orange;
+font-size: 50px;
+}
+
+.button2 {
+align-items: center; 
+background-color: rgb(251, 184, 60) ;
+border-radius: 50px;
+border: none;
+border: none;
+color: white;
+  
+font-family: "Heebo";
+font-size: 23px;
+padding: 20px 50px;
+position: relative;
+text-align: center;
+text-decoration: none;
+
+
+
+} 
+
+/* fin presentation */ 
+
+
+/* debut niveau */ 
+
+.level {
+text-align: center; 
+padding: 70px ;
+
+color: rgb(251, 184, 60); 
+font-size: 60px;
+font-weight: 400;
+font-family: "Heebo";
+text-decoration: underline;
+}
+.button1level{
+font-family: "Heebo" ; 
+position: relative;
+left: 200px;
+background-color: rgb(251, 184, 60); 
+
+border: none;
+color: black ;
+padding: 20px 50px;
+border-radius: 50px;
+text-align: center;
+align-items: center ;
+border: none;
+text-decoration: none;
+
+font-size: 23px;  } 
+.button2level {
+font-family: "Heebo"; 
+position: relative;
+left: 310px;
+background-color: rgb(251, 184, 60);
+
+border: none;
+color: black;
+padding: 20px 50px;
+border-radius: 50px;
+text-align: center;
+border: none;
+text-decoration: none;
+
+font-size: 23px; 
+}
+   .button3level {
+background-color: rgb(251, 184, 60);
+border-radius: 50px;
+border: none;
+border: none;
+color: black;
+font-family: "Heebo";
+font-size: 23px;
+   left: 400px;
+padding: 20px 50px;
+   position: relative;
+text-align: center;
+text-decoration: none;
+   }
+  .buttonPFElevel {
+ background-color: rgb(251, 184, 60);
+ border-radius: 50px;
+ border: none;
+ border: none;
+ color: black;
+ font-family: "Heebo"; 
+ font-size: 23px;
+   left: 510px;
+ padding: 20px 59px;
+   position: relative;
+ text-align: center;
+ text-decoration: none;
+   }
+
+/* fin niveau */ 
+
+
+/* debut contact */ 
+.img2 {
+    float: right;
+    width: 30%;
+    height: auto;
+} 
+.contact {
+
+width: auto;
+height: auto;
+margin: auto;
+border-radius: 50px;
+background-color: rgb(224, 221, 221) ; 
+
+overflow: auto;
+
+   
+}
+.contacttext {
+color: rgb(251, 184, 60) ;
+font-family: "Heebo";
+font-size: 70px ;
+margin: 25px ;
+   padding: 5px;
+text-align: center; 
+text-decoration: underline; 
+}
+.contacttext2 {
+text-align: center; 
+}
+.gmail {
+height: 50px ;
+width: 50px ;
+position: relative;
+align-items: center ;
+
+   
+ 
+}
+.mygmail{
+color: rgb(234, 67, 53)  ;
+padding: 2px ;
+
+}
+
+
+/* fin contact */ 
+
+
+
+
+@media (max-width:1423px) {
+
+img  {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+ .logo {
+ font-weight: 300;
+ font-size: 30px;
+ }
+button {
+
+   font-weight: 250;
+   font-size: 15px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+align-items: center;
+   
+
+} 
+   .niveau {
+  display: none;
+  }
+  
+  img {
+display: none; 
+  }  
+
+  .text-logo {
+  font-family: "Kdam Thmor Pro";
+
+  font-size: 25px;
+   color: rgb(251, 184, 60);
+  
+ word-break: break-all ; 
+ }
+ 
+   .welcome {
+   font-family: Pacifico;
+   font-size: 50px;
+   }
+.welcome-text{
+   
+line-height: 1;
+word-spacing: 3px;
+padding: 35px  ; 
+}
+p{
+
+font-size: 20px;
+margin-left: auto;
+margin-right: auto;
+
+} 
+a.button2 {
+align-items: center; 
+padding: 8px 39px;
+font-size: 15px;
+
+   
+} 
+
+
+.simple , .plusefficase {
+color: orange;
+text-decoration: underline;
+text-decoration-color: orange;
+font-size: 28px;
+}
+.level {
+ 
+padding: 15px;
+color: rgb(251, 184, 60);
+font-size: 30px;
+font-weight: 400;
+font-family: "Heebo";
+text-decoration: underline;
+align-items: center;
+}
+.classes {
+display: flex;
+flex-direction: column ;
+justify-content:  center ; 
+align-items: center;
+
+
+
+} 
+.button1level , .button2level , .button3level , .buttonPFElevel {
+left: 0px ;
+line-break: normal; 
+margin: 3px; 
+
+   
+} 
+
+.contacttext {
+font-size: 40px ;
+margin: 10px;
+text-align: center;
+  
+padding: 5px;
+}
+
+.gmail {
+height: 25px;
+width: 25px;
+  
+}
+.mygmail {
+margin: 10px ;
+padding: 2px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* end MAIN */ 

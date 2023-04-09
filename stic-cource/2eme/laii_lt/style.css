@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    box-sizing: border-box;
+
+}
+
+/* start NAV BAR */
+
+
+
+button {
+    position: absolute;
+    font-family: "Heebo";
+    font-weight: 500;
+    font-size: 16px;
+
+    background-color: rgb(251, 184, 60);
+    border-radius: 50px;
+    border: none;
+    padding: 10px 25px;
+    transition: all 0.3s ease 0s;
+    left: 1200px;
+    top: 2.5em;
+}
+
+button:hover {
+    background-color: orange;
+    padding: 15px 30px;
+
+
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10%;
+
+}
+
+.logo {
+    position: absolute;
+    font-family: "Kdam Thmor Pro";
+    font-weight: 500;
+    font-size: 40px;
+    color: rgb(251, 184, 60);
+    text-shadow: 2px 2px 4px rgb(251, 184, 60);
+    left: 100px;
+    top: -1em;
+
+}
+.main {
+    background-color: rgb(224, 221, 221);
+    border-radius: 50px;
+    width: 100%;
+    height: auto;
+    overflow: auto;
+}
+.first {
+    font-family: "Heebo";
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+    padding: 0px;
+
+    text-decoration: underline;
+}
+.nameCourse{
+    font-family: "Heebo";
+        color: black;
+        font-size: 20px;
+        padding: 100px 8%;
+       
+
+}
+.download {
+    font-family: "Heebo";
+
+    font-weight: 500;
+        font-size: 16px;
+       
+        background-color: rgb(251, 184, 60);
+        border-radius: 50px;
+        border: none;
+        padding: 9px 30px;
+ 
+}
+
